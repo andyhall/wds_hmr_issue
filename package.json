@@ -1,7 +1,7 @@
 {
   "name": "wds_hmr",
   "version": "0.0.1",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server"
   },
